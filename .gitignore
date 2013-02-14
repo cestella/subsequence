@@ -1,0 +1,13 @@
+.metadata/
+.classpath
+.project
+target
+scratch
+*.swp
+.*.swp
+.settings
+output
+dependency-reduced-pom.xml
+.swo
+*.swo
+meta
