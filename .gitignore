@@ -11,3 +11,5 @@ dependency-reduced-pom.xml
 .swo
 *.swo
 meta
+.idea
+*.iml
